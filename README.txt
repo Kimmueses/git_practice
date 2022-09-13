@@ -1,1 +1,1 @@
-Hello Kimberly
+Hello Git and GitHub
